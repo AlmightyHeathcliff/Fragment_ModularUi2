@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fragment_ModularUi2</string>
+
+    <string-array name="title">
+        <item>activity</item>
+        <item>component</item>
+        <item>service</item>
+    </string-array>
+
+
+
+    <string-array name="descr">
+        <item>activity D</item>
+        <item>component D</item>
+        <item>service D</item>
+    </string-array>
+
+</resources>
