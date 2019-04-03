@@ -1,6 +1,6 @@
 # Fragment_ModularUi2
 
-This Android app, GLA@NOW, is a one stop portal to all the events going on in the entire university. Since my university is very big, and there are events at continuously rate, there was a gap of information that couldn't be filled because of disparate departments and domains, until the introduction of my application. It used interactive UI and notifications services that enabled users to get in touch with master notice board of  information. I used card layout, navigation layout on top of it, Firebase services and webview to make this application.
+This Android app, GLA@NOW, is a one stop portal to all the events going on in the entire university. Since my university is very big, and there are events happening at continuous rate, there was a gap of information that couldn't be filled because of disparate departments and domains, until the introduction of my application. It used interactive UI and notifications services that enabled users to get in touch with master notice board of  information. I used card layout, navigation layout on top of it, Firebase services and webview to make this application.
 
 
 ## Welcome Screen
